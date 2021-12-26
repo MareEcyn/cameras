@@ -2,8 +2,10 @@
 
 A simple app for browse cameras list and play their streams.
 
-![Main screen](/Screens/CamerasScreen.png?raw=true)
-![Detail screen](/Screens/CameraScreen.png?raw=true)
+<p>
+  <img src="https://github.com/MareEcyn/cameras/blob/master/Screens/CamerasScreen.png" width="30%">
+  <img src="https://github.com/MareEcyn/cameras/blob/master/Screens/CameraScreen.png" width="30%">
+</p>
 
 ## Used tools
 - MVVM
